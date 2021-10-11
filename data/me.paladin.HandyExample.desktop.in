@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=HandyExample
+Exec=handy-example
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
